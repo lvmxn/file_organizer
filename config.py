@@ -1,0 +1,20 @@
+FILE_CATEGORIES = {
+    "Images": [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".HEIC"],
+    "Documents": [".pdf", ".docx", ".txt", ".xlsx", ".pptx", ".doc", ".odp"],
+    "Videos": [".mp4", ".avi", ".mov", ".mkv"],
+    "Music": [".mp3", ".wav", ".flac"],
+    "Archives": [".zip", ".rar", ".7z"],
+    "Programs": [".exe", ".apk"],
+    "Code": [".py", ".java", ".c", ".cpp", ".cs", ".js", ".html", ".css"],
+    "Config": [
+        ".json",
+        ".yaml",
+        ".yml",
+        ".xml",
+        ".toml",
+        ".ini",
+        ".cfg",
+        ".txt",
+        ".csv",
+    ],
+}
