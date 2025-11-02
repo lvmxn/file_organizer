@@ -4,3 +4,7 @@ Automatically sorts your files into folders based on file types, keeping your fo
 ## Features
 - Organizes files by type (images, documents, music, videos, etc.)
 - Supports your own folder categories
+
+## How to run
+```bash
+python main.py
